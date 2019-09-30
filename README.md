@@ -1,2 +1,0 @@
-# sick
-Created with CodeSandbox
